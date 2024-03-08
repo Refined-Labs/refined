@@ -30,4 +30,3 @@ $ npm run dev
 
 [WolvTMG - Motivation](https://github.com/WolvTMG)
 
-[fluffiflower - Rust Femboy](https://github.com/fluffiflower/)
