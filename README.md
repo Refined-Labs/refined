@@ -16,13 +16,11 @@ You want to have Bun or Node installed, And a terminal such as (whatever comes w
 Open the terminal, Clone the repo after doing that paste these commands.
 
 ```bash
-#Replace npm with your package manager
-$ npm install
+$ install tauri-cli --version '^2.0.0-beta'
 
-$ npm run tauri dev
+$ install trunk
 
-#IF YOU WANT TO RUN THE WEB APP
-$ npm run dev
+$ rustup target add wasm32-unknown-unknown
 ```
 
 # Credits
