@@ -21,6 +21,8 @@ $ install tauri-cli --version '^2.0.0-beta'
 $ install trunk
 
 $ rustup target add wasm32-unknown-unknown
+
+$ cargo tauri dev
 ```
 
 # Credits
