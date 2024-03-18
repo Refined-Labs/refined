@@ -11,7 +11,7 @@ Introducing our in-development Spotify client: a sleek, intuitive platform to el
 
 # Setup
 
-You want to have Bun or Node installed, And a terminal such as (whatever comes with your operating system)
+You want to have Cargo installed, And a terminal such as (whatever comes with your operating system)
 
 Open the terminal, Clone the repo after doing that paste these commands.
 
