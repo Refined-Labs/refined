@@ -1,4 +1,5 @@
-![image](https://github.com/Refined-Labs/refined/assets/85907829/cacc2a79-d7f1-4939-9ab4-cc6027a9189f)
+
+![Frame 1](https://github.com/Refined-Labs/refined/assets/85907829/514482d0-737a-4bdc-b99a-dbadde0e942e)
 
 
 Introducing our in-development Spotify client: a sleek, intuitive platform to elevate your music streaming. Seamlessly integrating with Leptos & Tauri, enjoy personalized recommendations and curated playlists for an effortless discovery experience. Stay tuned for updates as we refine and enhance this innovative client for the ultimate music streaming experience.
